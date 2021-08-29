@@ -1,0 +1,13 @@
+#comments{
+    height: 98vh;
+    overflow-y: scroll;
+}
+#details{
+    height: 98vh;
+
+
+}
+body{
+    background-color: green;
+    color:tomato;
+}
